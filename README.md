@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4F46E5,50:7C3AED,100:9333EA&text=Kamalesh%20Jonnadula&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:4F46E5,50:7C3AED,100:9333EA&text=Kamalesh%20Jonnadula&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Frontend+Developer;Software+Engineering+Student;Building+Modern+Web+Applications;Learning+AI+%26+Full+Stack+Development"/>
 
