@@ -121,7 +121,7 @@ A collection of frontend applications focused on responsive design, performance 
 ---
 
 <div align = "center">
-  <span style = "font-weight : 300;">
+  <span style = "font-weight : bold; font-size : 2em;">
     Platform Used to Deploy
   </span>
 
