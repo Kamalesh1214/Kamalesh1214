@@ -119,31 +119,16 @@ A collection of frontend applications focused on responsive design, performance 
 </details>
 
 ---
+<div align = "center">
+  **Platform Used to Deploy**
+</div>
 
-<details>
-
-<summary><b>Responsibilities</b></summary>
-
-- Building responsive interfaces
-- Developing React applications
-- API integration
-- Git version control
-- Performance optimization
-- UI component development
-
-</details>
-
----
-
-**Skills**
-
-`React`
-`JavaScript`
-`HTML`
-`CSS`
-`Git`
-`GitHub`
-`REST APIs`
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
 ---
 
