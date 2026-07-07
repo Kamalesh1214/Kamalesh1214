@@ -119,8 +119,9 @@ A collection of frontend applications focused on responsive design, performance 
 </details>
 
 ---
+
 <div align = "center">
-  <span style = "font-weight = 300px;">
+  <span style = "font-weight : 300;">
     Platform Used to Deploy
   </span>
 
@@ -132,6 +133,7 @@ A collection of frontend applications focused on responsive design, performance 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
 </div>
+
 ---
 
 # Coding Profiles
