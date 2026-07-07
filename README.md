@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/Student-Engineering-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Frontend-Developer-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-Contributor-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/AI%20Learner-8B5CF6?style=for-the-badge)
 
 <br>
@@ -38,78 +37,6 @@ I'm **Kamalesh Jonnadula**, a Frontend Developer and Software Engineering studen
 My primary focus is developing responsive web applications using modern frontend technologies while expanding my expertise in backend engineering, cloud technologies, and Artificial Intelligence.
 
 I enjoy solving real-world problems through software engineering principles, writing clean and maintainable code, and continuously improving my technical skills through projects, open-source contributions, and competitive programming.
-
-### Professional Focus
-
-- Modern Frontend Development
-- Full Stack Web Development
-- Artificial Intelligence & Machine Learning
-- UI Engineering
-- REST API Integration
-- Product Engineering
-- Software Architecture
-- Open Source Collaboration
-
----
-
-# Open To
-
-- Frontend Development Internships
-- Full Stack Development Projects
-- Open Source Contributions
-- Hackathons
-- AI/ML Learning Opportunities
-- Software Engineering Collaborations
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
-
-</p>
-
-## Backend & Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-
-</p>
-
-## Cloud • DevOps • Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,npm"/>
-
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|-------------|---------|
-| Machine Learning | Intermediate | Learning supervised and unsupervised algorithms |
-| Artificial Intelligence | Intermediate | AI fundamentals, practical implementations |
-| Prompt Engineering | Advanced | Designing structured prompts for LLMs |
-| Data Structures | Intermediate | Problem solving and optimization |
-| REST APIs | Advanced | API integration and frontend consumption |
-| Frontend Engineering | Advanced | Responsive UI development |
-| Software Engineering | Intermediate | Clean architecture and scalable applications |
 
 ---
 
@@ -154,11 +81,10 @@ A collection of frontend applications focused on responsive design, performance 
 
 | Category | Details |
 |-----------|----------|
-| Stack | HTML • CSS • JavaScript • React |
+| Stack | HTML • CSS • JavaScript |
 | Scale | Frontend |
 | Performance | Lighthouse Optimized |
 | Security | Best Practices |
-| Impact | Portfolio & Learning |
 | Repository | https://github.com/Kamalesh1214 |
 
 ### Highlights
@@ -172,16 +98,6 @@ A collection of frontend applications focused on responsive design, performance 
 </details>
 
 ---
-
-# Experience
-
-## Frontend Developer
-
-**Self Projects**
-
-**2024 – Present**
-
-Working on modern web applications with a strong emphasis on responsive design, clean architecture, and maintainable code.
 
 ### Responsibilities
 
@@ -203,39 +119,6 @@ Working on modern web applications with a strong emphasis on responsive design, 
 `REST APIs`
 
 ---
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|--------------|---------|
-| Academic Journey | Continuously strengthening Software Engineering fundamentals through practical development and problem-solving. |
-| Project Development | Built multiple responsive frontend and full-stack applications using modern technologies. |
-| Open Source Learning | Actively maintaining projects on GitHub while following industry-standard development workflows. |
-| AI Learning | Exploring Artificial Intelligence, Prompt Engineering, and modern developer tools. |
-| Continuous Improvement | Consistently expanding knowledge through hands-on projects, coding practice, and self-learning. |
-
-</div>
-
----
-
-# Certifications
-
-## Currently Pursuing
-
-<div align="center">
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-![](https://img.shields.io/badge/NPTEL-Professional%20Courses-0056D2?style=for-the-badge)
-
-</div>
-
----
 
 # Coding Profiles
 
@@ -247,10 +130,6 @@ Working on modern web applications with a strong emphasis on responsive design, 
 
 <a href="https://www.hackerrank.com/jonnadulakamale1">
 <img src="https://img.shields.io/badge/HackerRank-jonnadulakamale1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Kamalesh1214">
-<img src="https://img.shields.io/badge/GitHub-Kamalesh1214-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
