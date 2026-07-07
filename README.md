@@ -119,9 +119,10 @@ A collection of frontend applications focused on responsive design, performance 
 </details>
 
 ---
-<div align = "center" font-weight = 300>
-  Platform Used to Deploy
-</div>
+<div align = "center">
+  <span style = "font-weight = 300px;">
+    Platform Used to Deploy
+  </span>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
@@ -130,6 +131,7 @@ A collection of frontend applications focused on responsive design, performance 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
+</div>
 ---
 
 # Coding Profiles
