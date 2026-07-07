@@ -122,9 +122,12 @@ A collection of frontend applications focused on responsive design, performance 
 
 <div align="center">
   <div style="font-weight:bold;font-size:2em;">
-    Platform Used to Deploy
+    
+    Platform Used to Deployment
+    
   </div>
-<br><br>
+<br>
+<br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
@@ -174,11 +177,5 @@ A collection of frontend applications focused on responsive design, performance 
 ---
 
 <div align="center">
-
 ### *"Building software with purpose, learning without limits, and improving one commit at a time."*
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:9333EA"/>
-
 </div>
