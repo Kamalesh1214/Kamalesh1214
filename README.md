@@ -120,7 +120,9 @@ A collection of frontend applications focused on responsive design, performance 
 
 ---
 
-### Responsibilities
+<details>
+
+<summary><b>Responsibilities</b></summary>
 
 - Building responsive interfaces
 - Developing React applications
@@ -128,6 +130,10 @@ A collection of frontend applications focused on responsive design, performance 
 - Git version control
 - Performance optimization
 - UI component development
+
+</details>
+
+---
 
 **Skills**
 
