@@ -120,8 +120,8 @@ A collection of frontend applications focused on responsive design, performance 
 
 ---
 
-<div align = "center">
-  <span style = "font-weight : bold; font-size : 2em;">
+<div align="center">
+  <span style="font-weight:bold;font-size:2em;">
     Platform Used to Deploy
   </span>
 
