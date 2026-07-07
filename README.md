@@ -119,8 +119,8 @@ A collection of frontend applications focused on responsive design, performance 
 </details>
 
 ---
-<div align = "center">
-  **Platform Used to Deploy**
+<div align = "center" font-weight = 300>
+  Platform Used to Deploy
 </div>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
