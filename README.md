@@ -121,9 +121,10 @@ A collection of frontend applications focused on responsive design, performance 
 ---
 
 <div align="center">
-  <span style="font-weight:bold;font-size:2em;">
+  <div style="font-weight:bold;font-size:2em;">
     Platform Used to Deploy
-  </span>
+  </div>
+<br><br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
